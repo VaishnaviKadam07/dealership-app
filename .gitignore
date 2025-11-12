@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+
+# Virtual environment
+env/
+venv/
+ENV/
+env.bak/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# React
+frontend-react/node_modules/
+frontend-react/build/
+
+# IDE settings
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environment variables and certificates
+.env
+*.pem
